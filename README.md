@@ -116,5 +116,5 @@ The script generates a 9-panel dashboard (`outputs/readmission_analysis.png`) in
 ## 📬 Contact
 
 Created by **[Your Name]**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 iamvivekhere21@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vivek-02282521a/)
